@@ -1,4 +1,4 @@
-Project Title: Color Recognition Using Raspberry Pi and TCS3200 Color Sensor
+# Color Recognition Using Raspberry Pi and TCS3200 Color Sensor
 
 Materials used: Raspberry Pi, TCS3200 Color Sensor, Breadboard, Connecting Wires and connectors, Different colored materials 
 
