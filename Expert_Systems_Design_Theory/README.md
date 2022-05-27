@@ -15,3 +15,6 @@ Programming language + any software libraries: Prolog
 Datasets:
 ● Michelin Restaurant
 https://www.kaggle.com/jackywang529/michelin-restaurants?select=one-star-michelin-restaurants.csv
+
+## Homework Folder 
+Contains the assignments I completed for this course.
