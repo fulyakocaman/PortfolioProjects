@@ -1,6 +1,6 @@
-CPSC 131 Spring 2020
-Introduction
-You are tasked with working on an Artificial Intelligence program that can generate text. Your AI won’t be too complicated; it will train itself on text from a given text file. Hence the generated text will resemble (at least somewhat) text written by a human. The AI will form “Markov Chains” by storing associations between two words. When generating text, it will move from one word to the next randomly.
+# CPSC 131 Spring 2020
+
+I was tasked with working on an Artificial Intelligence program that can generate text. Your AI won’t be too complicated; it will train itself on text from a given text file. Hence the generated text will resemble (at least somewhat) text written by a human. The AI will form “Markov Chains” by storing associations between two words. When generating text, it will move from one word to the next randomly.
 
 For example, given the following sentences:
 	I like chess.
