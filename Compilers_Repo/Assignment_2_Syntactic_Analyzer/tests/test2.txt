@@ -1,0 +1,23 @@
+$$
+ 
+sum==0;
+ 
+sum = 1;
+ 
+sum--;
+
+sum + i = 0;
+
+true == false;
+ 
+error = true;
+error_message = sum + 5;
+if (true) 
+	a = b + c;
+sum++++;
+ 
+$$
+
+hello = a;
+
+

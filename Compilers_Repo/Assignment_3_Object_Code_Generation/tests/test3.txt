@@ -1,0 +1,14 @@
+$$
+
+integer a;
+integer b;
+integer c;
+integer x;
+boolean s;
+boolean y;
+
+x = a + b*c ;
+
+s=y;
+
+$$

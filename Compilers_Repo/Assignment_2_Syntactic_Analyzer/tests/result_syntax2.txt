@@ -1,0 +1,14 @@
+Token: separator	 Lexeme: $$
+	<RAT20SU> -> $$ <OPT_DEC_LIST> <STATEMENT_LIST> $$
+
+Token: identifier	 Lexeme: sum
+	<STATEMENT_LIST> -> <STATEMENT> <STATEMENT_LIST_PRIME>
+	<STATEMENT> -> <COMPOUND> | <ASSIGN> | <IF> | <GET> | <PUT> | <WHILE>
+	<ASSIGN> -> <TT_Identifier> = <EXPRESSION> ;
+
+Lexeme: == Syntax Error in line 3: '=' expected
+Lexeme: == Syntax Error in line 3: First symbol of a Term expected
+Lexeme: == Syntax Error in line 3: ';' expected
+Lexeme: == Syntax Error in line 3: A first of Statement or $$ expected
+Lexeme: == Syntax Error in line 3: $$ expected
+Syntax Error in line 3: Unprocessed Tokens

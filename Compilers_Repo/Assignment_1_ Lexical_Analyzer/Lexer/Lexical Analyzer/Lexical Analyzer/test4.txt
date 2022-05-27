@@ -1,0 +1,10 @@
+while(? < 20){
+ [*
+  a = 3
+  b = 14
+ *]
+  cas = 15
+  dasertqwdcgergdsqeer = 20
+  c = 1234567890123
+  d = 55
+}

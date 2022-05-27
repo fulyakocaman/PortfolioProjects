@@ -1,0 +1,16 @@
+$$
+
+integer a;
+integer b;
+integer c;
+
+if (a < b) 
+   a = c; 
+fi 
+
+if(b>0) 
+     b=c;
+otherwise
+     b=a;
+
+$$

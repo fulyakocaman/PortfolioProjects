@@ -1,0 +1,26 @@
+    TOKEN		LEXEME
+---------------------------------------
+    keyword		while
+    separator		(
+    operator		<
+    integer		20
+    separator		)
+    separator		{
+    identifier		cas
+    operator		=
+    integer		15
+    separator		}
+    keyword		while
+    separator		(
+    operator		<
+    integer		20
+    separator		)
+    separator		{
+    operator		=
+    integer		20
+    identifier		c_c
+    operator		=
+    identifier		d
+    operator		=
+    integer		55
+    separator		}
