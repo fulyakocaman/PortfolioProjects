@@ -1,3 +1,3 @@
-CPSC 323 Compilers and Language Summer 2020
+# CPSC 335 Algorithm Engineering Summer 2020
 
-These are the projects group members and I built using C++
+These are the projects I built using C++
