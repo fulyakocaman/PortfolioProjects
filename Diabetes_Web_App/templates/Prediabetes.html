@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Diabetes Prediction</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <style>
+        .topnav {
+            background-color: #333;
+            overflow: hidden;
+        }
+
+            /* Style the links inside the navigation bar */
+            .topnav a {
+                float: left;
+                color: #f2f2f2;
+                text-align: center;
+                padding: 10px 15px;
+                text-decoration: none;
+                font-size: 17px;
+            }
+
+                /* Change the color of links on hover */
+                .topnav a:hover {
+                    background-color: #ddd;
+                    color: black;
+                }
+
+                /* Add a color to the active/current link */
+                .topnav a.active {
+                    background-color: #04AA6D;
+                    color: white;
+                }
+
+        body {
+            font-family: "Times New Roman", Georgia, Serif;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-family: "Playfair Display";
+            letter-spacing: 5px;
+            margin-left: 20px;
+        }
+
+        p, img {
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+    </style>
+</head>
+<body style="background-color:lightgray">
+    <div class="container">
+
+        <div class="topnav">
+
+            <a href="{{ url_for('home') }}">
+                <p>Home</p>
+            </a>
+            <a href="{{ url_for('about') }}">
+                <p>About</p>
+            </a>
+            <a href="{{ url_for('diabetes') }}">
+                <p> Diabetes</p>
+            </a>
+            <a href="{{ url_for('prediabetes') }}">
+                <p>Prediabetes</p>
+            </a>
+        </div>
+
+    </div>
+
+    <h1 class="w3-center">Prediabetes</h1><br>
+    <h5 class="w3-center">Prediabetes is a serious health condition where blood sugar levels are higher than normal, but not high enough yet to be diagnosed as type 2 diabetes. Approximately 96 million American adults—more than 1 in 3—have prediabetes. Of those with prediabetes, more than 80% don't know they have it.</h5>
+    <p class="w3-large"> Getting diagnosed with prediabetes is a serious wake-up call, but it doesn't have to mean you will definitely get diabetes. There is still time to turn things around. It’s an opportunity to initiate lifestyle changes or treatments, and potentially retard progression to diabetes or even prevent diabetes. Making these changes in your daily habits is a good way to start: <span class="w3-tag w3-light-grey"></span></p>
+    <p class="w3-large w3-text-darkgrey w3-hide-medium">1. Become more active</p>
+    <p class="w3-large w3-text-darkgrey w3-hide-medium">2. Lower your weight</p>
+    <p class="w3-large w3-text-darkgrey w3-hide-medium">3. Make sleep a priority</p>
+    <p class="w3-large w3-text-darkgrey w3-hide-medium">4. See your doctor often</p>
+    <p class="w3-large w3-text-darkgrey w3-hide-medium">5. Eat better</p>
+    <p class="w3-large w3-text-darkgrey w3-hide-medium">6. Choose and commit to healthy lifestyle</p>
+
+
+    <h1>The following diet is recommended for Prediabetes:</h1>
+
+    <img src="https://healthcare.utah.edu/utahdiabetescenter/images/type-2-diabetes-quiz.jpg" alt="Start the test" title="Start the test" style="width:900px;height:900px;" class="w3-center">
+
+
+    <h2>The diet specifies clean and healthy eating habits </h2>
+    <body>
+        <p>A person with prediabetes has blood sugar levels that are high but not yet within the diabetes ranges. If a person takes the right steps, there is a good chance that they can prevent diabetes from developing. Prevention plans usually involve two key lifestyle factors they are healthful diet and regular exercise. Specific diet changes an individual can make: </p>
+
+        <p>->Begin choosing whole-grain breads and pastas, brown rice and wild rice.</p>
+        <p>->Choose healthy protein such as eggs, fish, tofu, nuts and seeds</p>
+        <p>->Enjoy fruits in moderation</p>
+        <p>->Do not skip on meals</p>
+        <p>->Cutback on processsed foods, unhealthy snacks, Alcohol, Smoking</p>
+
+
+
+    </body>
+</html>

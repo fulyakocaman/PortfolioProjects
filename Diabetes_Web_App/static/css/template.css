@@ -1,0 +1,12 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: linear-gradient(#FFFFFF, #FFF09F);
+}
+
+.logo {
+    background-color: #00ffff;
+    padding: 10px;
+    color: black;
+}
+

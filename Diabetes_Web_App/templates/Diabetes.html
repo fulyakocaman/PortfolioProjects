@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Diabetes Prediction</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+    .topnav {
+        background-color: #333;
+        overflow: hidden;
+    }
+
+        /* Style the links inside the navigation bar */
+        .topnav a {
+            float: left;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 10px 15px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+
+            /* Change the color of links on hover */
+            .topnav a:hover {
+                background-color: #ddd;
+                color: black;
+            }
+
+            /* Add a color to the active/current link */
+            .topnav a.active {
+                background-color: #04AA6D;
+                color: white;
+            }
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+</style>
+</head>
+<body style="background-color:lightgray">
+    <div class="container">
+        <div class="topnav">
+
+            <a href="{{ url_for('home') }}">
+                <p>Home</p>
+            </a>
+            <a href="{{ url_for('about') }}">
+                <p>About</p>
+            </a>
+            <a href="{{ url_for('diabetes') }}">
+                <p> Diabetes</p>
+            </a>
+            <a href="{{ url_for('prediabetes') }}">
+                <p>Prediabetes</p>
+            </a>
+        </div>
+
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+        <h1 class="w3-center">Diabetes</h1><br>
+        <h5 class="w3-center">Diabetes Mellitus is a life threatening condition which puts an individual at risk for heart diseases, stroke and kidney failure. You can take control of Diabetes with CDC recommended diet and lifestyle changes.</h5>
+        <p class="w3-large"> Best Practices to taking care of diabetes everyday: <span class="w3-tag w3-light-grey"></span></p>
+        <p class="w3-large w3-text-darkgrey w3-hide-medium">1. Eat healthy and balanced meals</p>
+        <p class="w3-large w3-text-darkgrey w3-hide-medium">2. Get Regular Exercise</p>
+        <p class="w3-large w3-text-darkgrey w3-hide-medium">3. Take Diabetes medicines and Insulin shots Regularly</p>
+        <p class="w3-large w3-text-darkgrey w3-hide-medium">4. Reduce Smoking</p>
+        <p class="w3-large w3-text-darkgrey w3-hide-medium">5. Avoid Stress</p>
+        <p class="w3-large w3-text-darkgrey w3-hide-medium">6. Test your blood sugar everyday</p>
+    </div>
+
+    <h1>The following diet is recommended for Type 2 diabetes:</h1>
+
+    <img src="https://www.idf.org/type-2-diabetes-risk-assessment/blipire/wp-content/themes/risk-assessment/_/img/quiz_start.svg" alt="Start the test" title="Start the test" style="width:200px;height:200px;" align="right">
+
+    <h2>The diet specifies clean and healthy eating habits </h2>
+    <body>
+        <p>While no two diabetes diets will look the same, certain foods are considered staples for people with this disease because they support a healthy weight and blood sugar level. </p>
+        <p>They include:</p>
+
+        <p>->Nonstarchy vegetables, such as broccoli and high-fiber fruit like apples</p>
+        <p>->Lean sources of protein, such as boneless, skinless chicken, turkey, and fatty fish, like salmon</p>
+        <p>->Healthy fats, such as nuts, nut butter, and avocado (in moderation)</p>
+        <p>->Whole grains, like quinoa and barley</p>
+        <p>->Nonfat or lowfat dairy, like milk and plain yogurt</p>
+
+
+    </body>
+</html>
