@@ -8,3 +8,6 @@ is a clean dataset of 253,680 survey responses to the CDC's BRFSS2015. The targe
 2 is for diabetes. This dataset has 21 feature variables.
 
 This app is created using flask framework, deployed using PythonAnywhere and running at https://diabeteswebapp01.pythonanywhere.com.
+
+
+![Diabetes_Web_App_Pic](https://user-images.githubusercontent.com/54614536/170795503-7c3d20ad-6ec9-476c-aa4e-b39a8727d94f.PNG)
