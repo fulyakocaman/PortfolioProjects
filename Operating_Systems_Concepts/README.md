@@ -1,4 +1,3 @@
-CPSC 240 Assembly Language
-Spring 2020
+# CPSC 351 Operating Systems Concepts Fall 2020
 
-These are the labs and projects I built using with Assembly Language
+These are the projects I built using C++
