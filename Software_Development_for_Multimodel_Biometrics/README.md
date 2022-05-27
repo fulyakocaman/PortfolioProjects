@@ -1,4 +1,3 @@
-CPSC 240 Assembly Language
-Spring 2020
+# CPSC 362 Foundations of Software Engineering Fall 2020
 
-These are the labs and projects I built using with Assembly Language
+These are the Software Requirements Specification and Sofware Development Plan documements that my group members and I created. 
