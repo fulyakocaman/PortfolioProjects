@@ -1,4 +1,4 @@
-In this project you will use NumPy to implement vectorized linear and polynomial regression 
+In this project I used NumPy to implement vectorized linear and polynomial regression 
 models and compare their performance using separate training and test sets.
 
 Experiments
