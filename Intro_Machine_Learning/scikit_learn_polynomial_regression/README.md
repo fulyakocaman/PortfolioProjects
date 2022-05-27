@@ -1,4 +1,4 @@
-In this project you will use scikit-learn, which is a higher-level machine learning library that 
+In this project I used scikit-learn, which is a higher-level machine learning library that 
 works with NumPy, to compare the performance of linear and polynomial regression models.
 
 Experiments
