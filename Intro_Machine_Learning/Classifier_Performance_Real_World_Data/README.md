@@ -1,4 +1,4 @@
-In this project we will run into a new set of challenges when working with a “real-world” dataset, and see how an imbalanced dataset can
+In this project I ran into a new set of challenges when working with a “real-world” dataset, and see how an imbalanced dataset can
  influence classifier performance.
 
 Experiments
