@@ -1,7 +1,4 @@
-Project 1, Spring 2021
-due February 25 / February 26
-
-In this project you will familiarize yourself with Python and Jupyter by implementing a rudimentary outlier detection algorithm.
+In this project I familiarized myself with Python and Jupyter by implementing a rudimentary outlier detection algorithm.
 
 Dataset: The file participants.csv contains meeting attendance data reported by Zoom for the first three weeks of a course. Each
 row contains the name of a student along with the number of minutes that the student was logged in to the course Zoom meeting. 
