@@ -1,5 +1,4 @@
-CPSC 131 Spring 2020
-Introduction
+# CPSC 131 Spring 2020
 
 Create a graph data structure using an adjacency list. The graph is undirected and unweighted. Then implement the Breadth First Search (BFS) Traversal on the graph. Use the Breadth First Search Traversal to find the shortest distance between the given source node and all other nodes in the graph.
 Objective
