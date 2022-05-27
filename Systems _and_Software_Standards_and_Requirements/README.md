@@ -1,3 +1,7 @@
+# CPSC 541 Systems and Software Standards and Requirements Spring 2022
+
+These are the documements that my group members and I created.
+
 Part I: Develop business requirements- Vision and Scope Document
 Part II: Develop user requirements and the Software Requirements Specifications (SRS)
 
