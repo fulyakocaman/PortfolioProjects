@@ -1,4 +1,6 @@
-Short project title: Michelin Restaurant Recommender
+# CPSC 583 Expert Systems Design Theory Fall 2021
+
+## Michelin Restaurant Recommender
 
 Group members’ names: Pearl Law, Michael Nguyen, Fulya Kocaman
 
@@ -12,5 +14,4 @@ Programming language + any software libraries: Prolog
 
 Datasets:
 ● Michelin Restaurant
-https://www.kaggle.com/jackywang529/michelin-restaurants?select=one-star-michelin-re
-staurants.csv
+https://www.kaggle.com/jackywang529/michelin-restaurants?select=one-star-michelin-restaurants.csv
