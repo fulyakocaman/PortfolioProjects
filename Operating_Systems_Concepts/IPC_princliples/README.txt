@@ -1,8 +1,5 @@
-# CPSC 351 Spring 2020 Homework 2
+# Objectives:
 
-Fulya Kocaman: fulyakocaman@csu.fullerton.edu
-
-Objectives:
 1. To demonstrate IPC principles in action.
 2. To develop greater appreciation of shared memory, message passing, and signal IPC mechanisms.
 3. To implement a multiprocess application.
