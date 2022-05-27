@@ -1,4 +1,4 @@
-In this project we will compare the results of using clustering algorithms to segment customers based on their purchasing data.
+In this project I compared the results of using clustering algorithms to segment customers based on their purchasing data.
 
 Experiments
 Run the following experiments in a Jupyter notebook, performing actions in code cells and reporting results in Markdown cells.
