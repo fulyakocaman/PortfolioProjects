@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="87" failures="0" disabled="0" errors="0" time="0.108" timestamp="2019-12-10T20:44:22" name="AllTests">
+  <testsuite name="EmergencyClass" tests="7" failures="0" disabled="0" errors="0" time="0.001" timestamp="2019-12-10T20:44:22">
+    <testcase name="DescriptionAccessorMutator" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="EmergencyClass" />
+    <testcase name="LocationAccessorMutator" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="EmergencyClass" />
+    <testcase name="ReportTimeAccessorMutator" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="EmergencyClass" />
+    <testcase name="DefaultConstructor" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="EmergencyClass" />
+    <testcase name="NonDefaultConstructor" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="EmergencyClass" />
+    <testcase name="Display" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="EmergencyClass" />
+    <testcase name="SaveString" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="EmergencyClass" />
+  </testsuite>
+  <testsuite name="EmergencyManager" tests="2" failures="0" disabled="0" errors="0" time="0" timestamp="2019-12-10T20:44:22">
+    <testcase name="DefaultConstructor" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="EmergencyManager" />
+    <testcase name="Add" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="EmergencyManager" />
+  </testsuite>
+  <testsuite name="RouteManager" tests="1" failures="0" disabled="0" errors="0" time="0" timestamp="2019-12-10T20:44:22">
+    <testcase name="AddCheckedRoute" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="RouteManager" />
+  </testsuite>
+  <testsuite name="MultipleEmergency" tests="6" failures="0" disabled="0" errors="0" time="0.001" timestamp="2019-12-10T20:44:22">
+    <testcase name="SaveString" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="MultipleEmergency" />
+    <testcase name="Inheritance" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="MultipleEmergency" />
+    <testcase name="AccessorsMutators" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="MultipleEmergency" />
+    <testcase name="DefaultConstructor" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="MultipleEmergency" />
+    <testcase name="NonDefaultConstructor" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="MultipleEmergency" />
+    <testcase name="Display" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="MultipleEmergency" />
+  </testsuite>
+  <testsuite name="PotentialEmergency" tests="6" failures="0" disabled="0" errors="0" time="0" timestamp="2019-12-10T20:44:22">
+    <testcase name="Inheritance" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="PotentialEmergency" />
+    <testcase name="AccessorsMutators" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="PotentialEmergency" />
+    <testcase name="DefaultConstructor" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="PotentialEmergency" />
+    <testcase name="NonDefaultConstructor" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="PotentialEmergency" />
+    <testcase name="Display" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="PotentialEmergency" />
+    <testcase name="SaveString" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="PotentialEmergency" />
+  </testsuite>
+  <testsuite name="CreateEmergency" tests="3" failures="0" disabled="0" errors="0" time="0" timestamp="2019-12-10T20:44:22">
+    <testcase name="CheckDescription" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="CreateEmergency" />
+    <testcase name="CheckLocation" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="CreateEmergency" />
+    <testcase name="CheckReportTime" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="CreateEmergency" />
+  </testsuite>
+  <testsuite name="CreateMultipleEmergency" tests="4" failures="0" disabled="0" errors="0" time="0" timestamp="2019-12-10T20:44:22">
+    <testcase name="CheckDescription" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="CreateMultipleEmergency" />
+    <testcase name="CheckOtherEmergencies" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="CreateMultipleEmergency" />
+    <testcase name="CheckLocation" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="CreateMultipleEmergency" />
+    <testcase name="CheckReportTime" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="CreateMultipleEmergency" />
+  </testsuite>
+  <testsuite name="CreatePotentialEmergency" tests="4" failures="0" disabled="0" errors="0" time="0" timestamp="2019-12-10T20:44:22">
+    <testcase name="CheckDescription" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="CreatePotentialEmergency" />
+    <testcase name="CheckLocation" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="CreatePotentialEmergency" />
+    <testcase name="CheckEstimatedTime" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="CreatePotentialEmergency" />
+    <testcase name="CheckReportTime" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="CreatePotentialEmergency" />
+  </testsuite>
+  <testsuite name="DisplayEmergencies" tests="2" failures="0" disabled="0" errors="0" time="0" timestamp="2019-12-10T20:44:22">
+    <testcase name="OneEmergency" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="DisplayEmergencies" />
+    <testcase name="MultipleEmergency" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="DisplayEmergencies" />
+  </testsuite>
+  <testsuite name="GetCurrentTime" tests="2" failures="0" disabled="0" errors="0" time="0" timestamp="2019-12-10T20:44:22">
+    <testcase name="Time1" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="GetCurrentTime" />
+    <testcase name="Time2" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="GetCurrentTime" />
+  </testsuite>
+  <testsuite name="PriorityEmergency" tests="11" failures="0" disabled="0" errors="0" time="0.001" timestamp="2019-12-10T20:44:22">
+    <testcase name="NoEmergencies" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="PriorityEmergency" />
+    <testcase name="PriorityEmergencyFirst" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="PriorityEmergency" />
+    <testcase name="PriorityEmergencySecond" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="PriorityEmergency" />
+    <testcase name="PriorityEmergencyLast" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="PriorityEmergency" />
+    <testcase name="NoHourDiffNoMinDiff" status="run" result="completed" time="0.001" timestamp="2019-12-10T20:44:22" classname="PriorityEmergency" />
+    <testcase name="NoHourDiffMinDiff" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="PriorityEmergency" />
+    <testcase name="NoHourDiffMinDiff2" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="PriorityEmergency" />
+    <testcase name="HourDiffNoMinDiff1" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="PriorityEmergency" />
+    <testcase name="HourDiffNoMinDiff2" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="PriorityEmergency" />
+    <testcase name="HourDiffMinDiff" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="PriorityEmergency" />
+    <testcase name="CurrentTimeMinGreaterThanReportTimeMin" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="PriorityEmergency" />
+  </testsuite>
+  <testsuite name="GetFilename" tests="2" failures="0" disabled="0" errors="0" time="0" timestamp="2019-12-10T20:44:22">
+    <testcase name="Filename1" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="GetFilename" />
+    <testcase name="Filename2" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="GetFilename" />
+  </testsuite>
+  <testsuite name="SaveFile" tests="3" failures="0" disabled="0" errors="0" time="0.001" timestamp="2019-12-10T20:44:22">
+    <testcase name="CreateFile" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="SaveFile" />
+    <testcase name="OneEmergency" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="SaveFile" />
+    <testcase name="ThreeEmergencies" status="run" result="completed" time="0.001" timestamp="2019-12-10T20:44:22" classname="SaveFile" />
+  </testsuite>
+  <testsuite name="LoadFile_" tests="1" failures="0" disabled="0" errors="0" time="0" timestamp="2019-12-10T20:44:22">
+    <testcase name="NoFile" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="LoadFile_" />
+  </testsuite>
+  <testsuite name="LoadFile" tests="2" failures="0" disabled="0" errors="0" time="0" timestamp="2019-12-10T20:44:22">
+    <testcase name="OneEmergency" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="LoadFile" />
+    <testcase name="ThreeEmergencies" status="run" result="completed" time="0" timestamp="2019-12-10T20:44:22" classname="LoadFile" />
+  </testsuite>
+  <testsuite name="Input" tests="9" failures="0" disabled="0" errors="0" time="0.014" timestamp="2019-12-10T20:44:22">
+    <testcase name="CreateExit" status="run" result="completed" time="0.001" timestamp="2019-12-10T20:44:22" classname="Input" />
+    <testcase name="DisplayExit" status="run" result="completed" time="0.002" timestamp="2019-12-10T20:44:22" classname="Input" />
+    <testcase name="CreateMultipleDisplayExit" status="run" result="completed" time="0.001" timestamp="2019-12-10T20:44:22" classname="Input" />
+    <testcase name="DisplayCreateMultipleExit" status="run" result="completed" time="0.003" timestamp="2019-12-10T20:44:22" classname="Input" />
+    <testcase name="CreateShowPriorityExit" status="run" result="completed" time="0.001" timestamp="2019-12-10T20:44:22" classname="Input" />
+    <testcase name="ShowPriorityCreateExit" status="run" result="completed" time="0.002" timestamp="2019-12-10T20:44:22" classname="Input" />
+    <testcase name="DisplayShowPriorityExit" status="run" result="completed" time="0.001" timestamp="2019-12-10T20:44:22" classname="Input" />
+    <testcase name="ShowPriorityDisplayExit" status="run" result="completed" time="0.001" timestamp="2019-12-10T20:44:22" classname="Input" />
+    <testcase name="CreateDisplayCreateMultipleDisplayExit" status="run" result="completed" time="0.002" timestamp="2019-12-10T20:44:22" classname="Input" />
+  </testsuite>
+  <testsuite name="DriverSaveFile" tests="10" failures="0" disabled="0" errors="0" time="0.021" timestamp="2019-12-10T20:44:22">
+    <testcase name="SaveExit" status="run" result="completed" time="0.001" timestamp="2019-12-10T20:44:22" classname="DriverSaveFile" />
+    <testcase name="DisplaySaveExit" status="run" result="completed" time="0.003" timestamp="2019-12-10T20:44:22" classname="DriverSaveFile" />
+    <testcase name="SaveDisplayExit" status="run" result="completed" time="0.002" timestamp="2019-12-10T20:44:22" classname="DriverSaveFile" />
+    <testcase name="SaveCreateExit" status="run" result="completed" time="0.002" timestamp="2019-12-10T20:44:22" classname="DriverSaveFile" />
+    <testcase name="CreateMultipleSaveExit" status="run" result="completed" time="0.002" timestamp="2019-12-10T20:44:22" classname="DriverSaveFile" />
+    <testcase name="ShowPrioritySaveExit" status="run" result="completed" time="0.001" timestamp="2019-12-10T20:44:22" classname="DriverSaveFile" />
+    <testcase name="SaveShowPriorityExit" status="run" result="completed" time="0.002" timestamp="2019-12-10T20:44:22" classname="DriverSaveFile" />
+    <testcase name="SaveLoadExit" status="run" result="completed" time="0.001" timestamp="2019-12-10T20:44:22" classname="DriverSaveFile" />
+    <testcase name="LoadSaveExit" status="run" result="completed" time="0.001" timestamp="2019-12-10T20:44:22" classname="DriverSaveFile" />
+    <testcase name="CreateCreateMultipleSaveExit" status="run" result="completed" time="0.002" timestamp="2019-12-10T20:44:22" classname="DriverSaveFile" />
+  </testsuite>
+  <testsuite name="DriverLoadFile" tests="8" failures="0" disabled="0" errors="0" time="0.033" timestamp="2019-12-10T20:44:22">
+    <testcase name="LoadExit" status="run" result="completed" time="0.004" timestamp="2019-12-10T20:44:22" classname="DriverLoadFile" />
+    <testcase name="DisplayLoadExit" status="run" result="completed" time="0.001" timestamp="2019-12-10T20:44:22" classname="DriverLoadFile" />
+    <testcase name="LoadDisplayExit" status="run" result="completed" time="0.002" timestamp="2019-12-10T20:44:22" classname="DriverLoadFile" />
+    <testcase name="LoadCreateExit" status="run" result="completed" time="0.001" timestamp="2019-12-10T20:44:22" classname="DriverLoadFile" />
+    <testcase name="CreateLoadExit" status="run" result="completed" time="0.002" timestamp="2019-12-10T20:44:22" classname="DriverLoadFile" />
+    <testcase name="ShowPriorityLoadExit" status="run" result="completed" time="0.002" timestamp="2019-12-10T20:44:22" classname="DriverLoadFile" />
+    <testcase name="LoadShowPriorityExit" status="run" result="completed" time="0.001" timestamp="2019-12-10T20:44:22" classname="DriverLoadFile" />
+    <testcase name="LoadDisplayExitOutput" status="run" result="completed" time="0.019" timestamp="2019-12-10T20:44:22" classname="DriverLoadFile" />
+  </testsuite>
+  <testsuite name="Driver" tests="4" failures="0" disabled="0" errors="0" time="0.036" timestamp="2019-12-10T20:44:22">
+    <testcase name="CreateDisplayExit" status="run" result="completed" time="0.004" timestamp="2019-12-10T20:44:22" classname="Driver" />
+    <testcase name="CreateCreatePotentialDisplayExit" status="run" result="completed" time="0.01" timestamp="2019-12-10T20:44:22" classname="Driver" />
+    <testcase name="CreateCreateMultipleDisplayExit" status="run" result="completed" time="0.012" timestamp="2019-12-10T20:44:22" classname="Driver" />
+    <testcase name="CreateCreateShowPriorityExit" status="run" result="completed" time="0.01" timestamp="2019-12-10T20:44:22" classname="Driver" />
+  </testsuite>
+</testsuites>

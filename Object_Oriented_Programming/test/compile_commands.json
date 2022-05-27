@@ -1,0 +1,17 @@
+[
+ {
+ "directory" : "/home/student/Desktop/tuffyaid-08-fulyakocaman",
+ "command" : "clang++ -std=c++17 tuffyaid.cpp -o tuffyaid",
+ "file" : "/home/student/Desktop/tuffyaid-08-fulyakocaman/tuffyaid.cpp"
+ },
+ {
+ "directory" : "/home/student/Desktop/tuffyaid-08-fulyakocaman",
+ "command" : "clang++ -std=c++17 emergency.cpp -o tuffyaid",
+ "file" : "/home/student/Desktop/tuffyaid-08-fulyakocaman/emergency.cpp"
+ },
+ {
+ "directory" : "/home/student/Desktop/tuffyaid-08-fulyakocaman",
+ "command" : "clang++ -std=c++17 emergency.hpp -o tuffyaid",
+ "file" : "/home/student/Desktop/tuffyaid-08-fulyakocaman/emergency.hpp"
+ },
+]

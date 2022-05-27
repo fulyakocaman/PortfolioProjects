@@ -1,0 +1,14 @@
+---
+MainSourceFile:  '/home/student/Desktop/tuffyaid-08-fulyakocaman/emergency.cpp'
+Diagnostics:     
+  - DiagnosticName:  hicpp-special-member-functions
+    Message:         'class ''EmergencyManager'' defines a non-default destructor but does not define a copy constructor, a copy assignment operator, a move constructor or a move assignment operator'
+    FileOffset:      4525
+    FilePath:        './emergency.hpp'
+    Replacements:    []
+  - DiagnosticName:  hicpp-special-member-functions
+    Message:         'class ''EmergencyManager'' defines a non-default destructor but does not define a copy constructor, a copy assignment operator, a move constructor or a move assignment operator'
+    FileOffset:      4525
+    FilePath:        emergency.hpp
+    Replacements:    []
+...
