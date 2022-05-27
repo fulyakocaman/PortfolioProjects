@@ -1,4 +1,4 @@
-In this project we will work with some toy data sets to compare the decision boundaries defined by some of 
+In this project I worked with some toy data sets to compare the decision boundaries defined by some of 
 the simpler classifier algorithms.
 
 Experiments
