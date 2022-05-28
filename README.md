@@ -1,9 +1,10 @@
 # About Me
-
-My name is Fulya Kocaman<br>
-
 <img
-  src="/path/to/img.jpg"
+  src="https://github.com/fulyakocaman/PortfolioProjects/blob/main/LinkedInPic2_2022.jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; width: 100px; lentgth:100px">
+
+My name is Fulya Kocaman
+
+
