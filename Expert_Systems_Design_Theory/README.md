@@ -1,6 +1,6 @@
 # CPSC 583 Expert Systems Design Theory Fall 2021
 
-## Michelin Restaurant Recommender
+## Michelin Star Restaurant Recommendation System
 
 Group members’ names: Pearl Law, Michael Nguyen, Fulya Kocaman
 
