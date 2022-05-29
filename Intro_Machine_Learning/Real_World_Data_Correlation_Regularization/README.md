@@ -1,3 +1,5 @@
+# California Housing Dataset 
+
 In this project I saw some of the challenges of working with a “real-world” dataset, 
 see the importance of exploratory data analysis to understand the features, and experiment 
 with regularization.<p>
