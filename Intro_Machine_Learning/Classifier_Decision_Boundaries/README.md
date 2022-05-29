@@ -1,4 +1,5 @@
-In this project I worked with some toy data sets and used Seaborn, pandas, scikit-learn, NumPy and pyplot to analyze some toy datasets and compare the decision boundaries defined by 
+
+In this project I worked with some toy data sets and used Seaborn, pandas, scikit-learn, NumPy and pyplot to analyze some toy datasets and compare the decision boundaries defined by Logistic Regression, Gaussian Naive Bayes and K-Nearest Neighbor classifiers.
 
 Experiments
 Run the following experiments in a Jupyter notebook, performing actions in code cells and reporting results in Markdown cells.
