@@ -1,6 +1,6 @@
-# Emergency
+# CPSC 121 C++ Object Oriented Programming Fall 2019
 
-## PotentialEmergency
+## Potential Emergency
 Create a new class called `PotentialEmergency` that inherits from `Emergency`. In addition to information stored by the `Emergency` class, it also keeps track of the potential time the emergency might happen. For example, the water level of a river close to town is really high and it can potentially lead to flooding in about 3 hours. This is going to be represented by a data member called `estimated_time_` (`unsigned short int`). A possible `PotentialEmergency` object might be a Flood, located at Tonto Basin, that might happen at 2000, that was reported at 1327.
 
 Create accessors and mutators for the `estimated_time_` data member of `PotentialEmergency`.
