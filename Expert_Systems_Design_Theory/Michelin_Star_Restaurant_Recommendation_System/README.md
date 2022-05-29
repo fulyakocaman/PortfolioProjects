@@ -12,6 +12,5 @@ Solution approach (Logic/Semantic Web/Probabilistic methods): Logic
 
 Programming language + any software libraries: Prolog
 
-Datasets:
-● Michelin Restaurant
+Datasets: Michelin Restaurant <p>
 https://www.kaggle.com/jackywang529/michelin-restaurants?select=one-star-michelin-restaurants.csv
