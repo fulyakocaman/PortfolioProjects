@@ -1,10 +1,8 @@
-CPSC 535 Advanced Algorithms
+# CPSC 535 Advanced Algorithms Spring 2021
 
-Project 2: Cumulative frequencies Due Fri, May 14 at 11:59pm
-Prof. Doina Bein, CSU Fullerton
-dbein@fullerton.edu
+Project 2: Cumulative frequencies 
 
-Introduction: In this project you will design and implement one algorithm related to strings. You will design the algorithm, 
+In this project you will design and implement one algorithm related to strings. You will design the algorithm, 
 describe the algorithm using clear pseudocode, and implement it using C/C++/C#/Java/Python, compile, test it, 
 and submit BOTH the report (as a PDF file) and the files. The execution should take less than one hour for each
  input example. <p>
