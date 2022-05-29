@@ -1,3 +1,5 @@
+# Clustering and Customer Segmentation 
+
 In this project I compared the results of using clustering algorithms to segment customers based on their purchasing data.
 
 Experiments
