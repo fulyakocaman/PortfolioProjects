@@ -1,5 +1,4 @@
-In this project I worked with some toy data sets to compare the decision boundaries defined by some of 
-the simpler classifier algorithms.
+In this project I worked with some toy data sets and used Seaborn, pandas, scikit-learn, NumPy and pyplot to analyze some toy datasets and compare the decision boundaries defined by 
 
 Experiments
 Run the following experiments in a Jupyter notebook, performing actions in code cells and reporting results in Markdown cells.
