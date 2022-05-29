@@ -2,14 +2,9 @@
 
 Project 2: Cumulative frequencies 
 
-In this project you will design and implement one algorithm related to strings. You will design the algorithm, 
-describe the algorithm using clear pseudocode, and implement it using C/C++/C#/Java/Python, compile, test it, 
-and submit BOTH the report (as a PDF file) and the files. The execution should take less than one hour for each
- input example. <p>
+In this project I designed and implemented one algorithm related to strings using C++. <p>
 
-Calculating frequency of similar words
-Given a text S of length n, one can easily calculate the frequency of each word in S using a linear time O(n) 
-algorithm. But words can be similar, for example “foot” and “feet”, “day” and “days”,  “fear”and “scared”,
+Similar words examples are “foot” and “feet”, “day” and “days”,  “fear”and “scared”,
  “long” and “big”, “big” and “large”. So one can extract the cumulative frequency of similar words instead
  of individual words. This will be extremely useful for sentiment analysis of reviews (movies, products, 
 services,etc.) and text summarization (blogs, text files, web articles, etc.), because it will output the 
